@@ -261,3 +261,4 @@ void freeList(struct Node **head) {
 		temp = *head;			//moving temp to the next node
 	}
 }
+}
